@@ -2,7 +2,7 @@
   "name": "react-ts-express",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Yokanskeya/react-ts-express.git",
+  "repository": "https://github.com/Yokanskeya/react-ts-express",
   "author": "Skeya <yokanskeya@gmail.com>",
   "license": "MIT",
   "scripts": {
